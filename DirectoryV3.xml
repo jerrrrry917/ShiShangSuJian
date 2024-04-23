@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/main/java/com/example/shishangsujian/transopenid" title="openid转换unionid" extension=""
+           presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+     <tree path="/src/main/java/com/example/shishangsujian/login" title="微信登录(使用code获取unionid或openid)"
+           extension="" presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+     <tree path="/src/main/java/com/example/shishangsujian/orders" title="记录新订单" extension="" presentableText=""
+           tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+     <tree path="/src/main/java/com/example/shishangsujian/membercomplaint" title="用户投诉"/>
+     <tree path="/src/main/java/com/example/shishangsujian/memberamount" title="用户资金"/>
+     <tree path="/src/main/java/com/example/shishangsujian/ordersrecord" title="用户获取订单与更新订单" extension=""
+           presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+     <tree path="/src/main/java/com/example/shishangsujian/getuserid" title="使用unionid获取用户id" extension=""
+           presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/updateunionid" title="利用openid更新全部unionid"/>
+    <tree path="/src/main/java/com/example/shishangsujian/stafflogin" title="员工登录"/>
+    <tree path="/src/main/java/com/example/shishangsujian/stafforders" title="员工获取订单与更新订单" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/getstafflist" title="客户端获取理发师列表（理发师上下班）"
+          extension="" presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/createorders" title="创建新订单"/>
+    <tree path="/src/main/java/com/example/shishangsujian/createcomment" title="用户评价订单"/>
+    <tree path="/src/main/java/com/example/shishangsujian/createcomment/membergrade"
+          title="积分总和并存储在membergrade中" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+          backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/findAccount" title="找回账户"/>
+    <tree path="/src/main/java/com/example/shishangsujian/WXpay" title="微信付款"/>
+    <tree path="/src/main/java/com/example/shishangsujian/savePhoto" title="照片留像"/>
+    <tree path="/src/main/java/com/example/shishangsujian/UserModel.java" title="通用用户实体"/>
+    <tree path="/src/main/java/setProfile" title="设置个人信息"/>
+    <tree path="/src/main/java/com/example/shishangsujian/setProfile" title="设置个人头像和昵称"/>
+    <tree path="/src/main/java/com/example/shishangsujian/NormalOrderModel.java" title="通用订单实体"/>
+    <tree path="/src/main/java/com/example/shishangsujian/judgeBenefit" title="判断用户benefit值" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/cancelorder" title="删除订单（用户与理发师）"/>
+    <tree path="/src/main/java/com/example/shishangsujian/getcomment" title="获取评价（店铺和理发师）" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/stafflevel" title="员工评级"/>
+    <tree path="/src/main/java/com/example/shishangsujian/commodity" title="商品"/>
+    <tree path="/src/main/java/com/example/shishangsujian/commodity/commodityService.java" title="包含商品和展示信息"/>
+    <tree path="/src/main/java/com/example/shishangsujian/countWaiting" title="记录等待人数"/>
+    <tree path="/src/main/java/com/example/shishangsujian/requestMessage" title="请求订阅消息与发送消息" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/src/main/java/com/example/shishangsujian/staffInfo" title="理发师信息与理发师查看订单收益"/>
+    <tree path="/src/main/java/com/example/shishangsujian/staffInfo/findRepository.java" title="订单查询"/>
+    <tree path="/src/main/java/com/example/shishangsujian/staffInfo/commentRepository.java" title="评价查询"/>
+</trees>
